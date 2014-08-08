@@ -1,0 +1,63 @@
+a
+{
+	color: #22BCE0;
+}
+body 
+{
+	background: #EEEEEE;
+	font-family: arial;
+	font-size: 16px;
+}
+header
+{
+	
+	background: #343B54;
+	color: white;
+	/*margin: 2em;*/
+	overflow: hidden;
+	padding: 0.5em;
+	position: relative;
+}
+header figure
+{
+	float: left;
+	/*display: inline-block;*/
+}
+header h1
+{
+	/*border: 1px solid red;*/
+	font-size: 1.2em;
+	font-weight: normal;
+	margin: 0.2em 70px 0 0;
+	/*margin: 0 1 2 3;
+	0 = (borde superior)
+	1 = (borde derecho)
+	2 = (borde inferior)
+	3 = (borde superior derecho)*/
+
+}
+/*header #avatar
+{
+	float: right;
+	margin-top: -55px;
+	display: inline-block;
+} */
+header #avatar
+{
+	/*left: 0;*/
+	margin: 0.5em 1em 0 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+header #avatar img 
+{
+	border-radius: 50%;
+	width: 55px;
+}
+header #logo img 
+{
+	border-right: 1px solid white;
+	margin-right: 0.5em
+	width: 52px;
+}
