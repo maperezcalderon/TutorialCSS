@@ -22,6 +22,7 @@
 	</header>
 	<nav>
 		<ul>
+			<li><a href="#">Python'</a></li>
 			<li><a href="#">Python</a></li>
 			<li><a href="#">HTML5</a></li>
 			<li><a href="#">Javascript</a></li>
